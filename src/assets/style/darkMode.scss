@@ -1,0 +1,35 @@
+header[theme="dark"]~.main {
+    .info__wrapper_contacts a {
+        color: white;
+    }
+
+    .info__contacts_email a {
+        color: var(--blue-color);
+    }
+
+    .info__logo {
+        background-image: url('../img/magazin__logoWhite.svg');
+    }
+
+    .shop-cart__icon {
+        background-image: url('../img/shoppingWhite.svg');
+        background-color: transparent;
+    }
+
+    .first__block_share {
+        background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg viewBox='0 0 16 16' width='14' height='14' fill='000' xmlns='http://www.w3.org/2000/svg'%3e%3cpath d='M14.6 2.9a2.7 2.7 0 01-4.554 1.963L5.303 7.28a2.702 2.702 0 010 1.44l4.743 2.417a2.7 2.7 0 11-.834 1.708l-5.05-2.575a2.7 2.7 0 110-4.54l5.05-2.575A2.7 2.7 0 1114.6 2.9z' fill='%23fff' /%3e%3c/svg%3e");
+    }
+
+    .back__btn_slash {
+        color: var(--blue-color);
+    }
+
+    .control__btn_delete {
+        background-image: url('../img/open-trash-canWhite.svg');
+    }
+
+    .shop-cart__list_item,
+    .shop__title {
+        border-color: white;
+    }
+}

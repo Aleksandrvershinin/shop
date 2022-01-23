@@ -1,0 +1,8 @@
+export const changeChapter = 'changeChapter'
+export const goodsInShoppingCart = 'goodsInShoppingCart'
+export const changeShoppingCart = 'changeShoppingCart'
+export const deleteItemShoppingCart = 'deleteItemShoppingCart'
+export const deleteShoppingCart = 'deleteShoppingCart'
+export const changeFormMailTo = 'changeFormMailTo'
+export const clearFormMailTo = 'clearFormMailTo'
+export const changeValueSearch = 'changeValueSearch'
